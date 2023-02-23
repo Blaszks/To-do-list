@@ -1,6 +1,6 @@
 # To-do-list
 
-!(https://github.com/Blaszks/To-do-list/blob/main/images/to-do-list.png?raw=true)
+![](https://github.com/Blaszks/To-do-list/blob/main/images/to-do-list.png?raw=true)
 
 ## Demo
 https://blaszks.github.io/To-do-list/
